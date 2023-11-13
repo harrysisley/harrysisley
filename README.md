@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harrysisley
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects
 
 <!---
