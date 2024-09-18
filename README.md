@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harry
 - 🌿 Founder of Woodland Marketing
 - 🚀 I'm a Marketing Executive for The Canvey Supply Co Ltd
-- 💻 Currently learning a lot of programming languages such as Python, JavaScript, HTML, CSS and TypeScript
+- 💻 Graphic Design/ Marketing / UI/UX Design / Software Development
 
 <!---
 harrysisley/harrysisley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
