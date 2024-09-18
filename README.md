@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harry
 - 🌿 Founder of Woodland Marketing
-- 🚀 I'm a Marketing Administrator for The Canvey Supply Co Ltd
+- 🚀 I'm a Marketing Executive for The Canvey Supply Co Ltd
 - 💻 Currently learning a lot of programming languages such as Python, JavaScript, HTML, CSS and TypeScript
 
 <!---
