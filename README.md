@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harry
 - 🌿 Founder of Woodland Marketing
-- 🚀 I'm a Marketing Executive for The Canvey Supply Co Ltd
-- 💻 Graphic Design  / Marketing / UI/UX Design / Software Development
+- 🚀 I'm a UI/UX Designer for The Canvey Supply Co Ltd
+- 💻 Graphic Design  / UI/UX Design / Software Development
 
 <!---
 harrysisley/harrysisley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
