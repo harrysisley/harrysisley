@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harry
 - 🌿 Founder of Woodland Digital
-- 🚀 I'm a Junior Web Developer for Book A Builder UK
+- 🚀 I'm a Junior Web Developer for Palace Media Ltd
 - 💻 JS | TS | HTML | CSS | PYTHON |
 
 <!---
