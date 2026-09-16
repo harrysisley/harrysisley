@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Harry
-- 🚀 I'm a Junior Web Developer for Palace Media Ltd
-- 💻 JavaScript | TypeScript | HTML | CSS | PYTHON
+- 💻 Web Developer at Palace Media Ltd
+- 🧪 Transitioning into Software QA and Testing
+- 🌐 HTML | CSS | JavaScript | PHP | Laravel | MySQL
+- 🔍 Manual Testing | Bug Reporting | Regression Testing | API Testing
 
 <!---
 harrysisley/harrysisley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
